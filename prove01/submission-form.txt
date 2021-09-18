@@ -1,12 +1,17 @@
 1. Copy and paste the URL for your source code repository (e.g., GitHub):
+https://github.com/catteara/cse341-project-master
 
 3. Briefly list and describe the elements of the application that are functioning. 
+Three different routes are present. Names inserted in form are sent to console.
 
 4. Briefly describe any pieces of the assignment that are not yet working correctly.
+Attempted to get names to display in document using an array and loop, but was unsuccessful.
 
 5. Briefly describe the "coolest" thing you learned while completing this assignment.
+It was cool learning how to create a local server from Visual Studio code.
 
 6. If you could change this assignment to be more effective or helpful, what would you change?
+I think that the 100% criteria was more of a challenge than a good scale of what we learned this week, since I feel the notes didn't cover this. I was also unsure if I was supposed to do this assignment twice, since the requirements in the "textbook" were differnt than for the Prove assignment.
 
 7. Please select the category you feel best describes your assignment:
    1 - Some attempt was made
@@ -14,5 +19,7 @@
    3 - Slightly deficient, but still mostly adequate
    4 - Meets requirements
    5 - Shows creativity and excels above and beyond requirements
+4
 
 8. Provide a brief justification (1-2 sentences) for selecting that category.
+I choose this category because even though I attempted to take the assignment further, I was not actually able to.
