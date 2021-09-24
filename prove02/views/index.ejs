@@ -1,0 +1,10 @@
+<%- include('includes/head.ejs') %>
+
+    <form action="/add-book" method="POST">
+        Title:<input type="text" name="bookTitle"><br>
+        Author:<input type="text" name="author"><br>
+        Price:<input type="text" name="price"><br>
+        <button type="submit">Add Book</button>
+    </form>
+    
+<%- include('includes/end.ejs') %>
